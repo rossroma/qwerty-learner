@@ -18,6 +18,7 @@ const options: LanguageTabOption[] = [
   { id: 'ja', name: '日语', flag: jpFlag },
   { id: 'de', name: '德语', flag: deFlag },
   { id: 'code', name: 'Code', flag: codeFlag },
+  { id: 'custom', name: '自定义', flag: codeFlag },
 ]
 
 export function LanguageTabSwitcher() {

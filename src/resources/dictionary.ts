@@ -456,17 +456,6 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
-    id: 'Customer_Core',
-    name: '自定义高频词汇',
-    description: '自定义高频词汇',
-    category: '中国考试',
-    tags: ['其他'],
-    url: '/dicts/custom_core.json',
-    length: 550,
-    language: 'en',
-    languageCategory: 'en',
-  },
-  {
     id: 'tingshuokaoshi',
     name: '听说考试常见词汇',
     description: '听说考试16个场景常见词汇量',
@@ -3364,6 +3353,21 @@ const germanExam: DictionaryResource[] = [
   },
 ]
 
+// 自定义词典
+const customDic: DictionaryResource[] = [
+  {
+    id: 'Customer_Core',
+    name: '自定义高频词汇',
+    description: '自定义高频词汇',
+    category: '自定义',
+    tags: ['默认'],
+    url: '/dicts/custom_core.json',
+    length: 550,
+    language: 'en',
+    languageCategory: 'custom',
+  },
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
@@ -3375,7 +3379,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...programming,
   ...japaneseExam,
   ...germanExam,
-
+  ...customDic,
   // {
   //   id: 'zhtest',
   //   name: '中文测试',
