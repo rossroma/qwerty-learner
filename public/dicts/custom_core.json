@@ -1,0 +1,3302 @@
+[
+    {
+        "name": "thirsty",
+        "trans": [
+            "adj. 口渴的；渴望的"
+        ]
+    },
+    {
+        "name": "insect",
+        "trans": [
+            "n. 昆虫"
+        ]
+    },
+    {
+        "name": "silly",
+        "trans": [
+            "adj. 愚蠢的，傻的"
+        ]
+    },
+    {
+        "name": "rope",
+        "trans": [
+            "n. 绳，索"
+        ]
+    },
+    {
+        "name": "jog",
+        "trans": [
+            "n. & v. 慢跑"
+        ]
+    },
+    {
+        "name": "tight",
+        "trans": [
+            "adj. 紧的，紧身的；结实的；紧张的"
+        ]
+    },
+    {
+        "name": "lung",
+        "trans": [
+            "n. 肺"
+        ]
+    },
+    {
+        "name": "stick",
+        "trans": [
+            "n. 棍，棒；棍状物 vi. 粘贴；坚持"
+        ]
+    },
+    {
+        "name": "counselor",
+        "trans": [
+            "n. 顾问，参赞；指导教师；法律顾问"
+        ]
+    },
+    {
+        "name": "frown",
+        "trans": [
+            "n. & v. 皱眉"
+        ]
+    },
+    {
+        "name": "picnic",
+        "trans": [
+            "n. 野餐"
+        ]
+    },
+    {
+        "name": "Pacific",
+        "trans": [
+            "n. 太平洋"
+        ]
+    },
+    {
+        "name": "occasion",
+        "trans": [
+            "n. 场合，机会"
+        ]
+    },
+    {
+        "name": "period",
+        "trans": [
+            "n. 时期，周期"
+        ]
+    },
+    {
+        "name": "paint",
+        "trans": [
+            "n. 油漆；颜料 vt. 涂漆，绘画"
+        ]
+    },
+    {
+        "name": "trade",
+        "trans": [
+            "n. 贸易，交易 vi. 交易，经商"
+        ]
+    },
+    {
+        "name": "separate",
+        "trans": [
+            "adj. 单独的，分开的 vt. 分开，区分"
+        ]
+    },
+    {
+        "name": "purchase",
+        "trans": [
+            "n. 购买，购置 vt. 购买"
+        ]
+    },
+    {
+        "name": "eventually",
+        "trans": [
+            "adv. 最终，终于"
+        ]
+    },
+    {
+        "name": "structure",
+        "trans": [
+            "n. 结构，构造；建筑物"
+        ]
+    },
+    {
+        "name": "sample",
+        "trans": [
+            "n. 样品，实例"
+        ]
+    },
+    {
+        "name": "crop",
+        "trans": [
+            "n. 农作物，庄稼；产量 vt. 种植；修剪"
+        ]
+    },
+    {
+        "name": "influence",
+        "trans": [
+            "n. 影响，感化；势力 vt. 影响"
+        ]
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "adj. 自然的，天然的"
+        ]
+    },
+    {
+        "name": "contribute",
+        "trans": [
+            "vt. 贡献，捐献；有助于"
+        ]
+    },
+    {
+        "name": "refuse",
+        "trans": [
+            "vt. 拒绝，谢绝；丢弃 n. 垃圾，废物"
+        ]
+    },
+    {
+        "name": "set",
+        "trans": [
+            "n. 一套，一组；集合 vt. 放，置；调整"
+        ]
+    },
+    {
+        "name": "severe",
+        "trans": [
+            "adj. 严重的，剧烈的"
+        ]
+    },
+    {
+        "name": "nervous",
+        "trans": [
+            "adj. 紧张的，神经的；易怒的"
+        ]
+    },
+    {
+        "name": "countryside",
+        "trans": [
+            "n. 乡下，农村"
+        ]
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "vt. 维持，保持；维修"
+        ]
+    },
+    {
+        "name": "decrease",
+        "trans": [
+            "n. 减少，减小；递减 vi. 减少"
+        ]
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "adj. 快速的，迅速的"
+        ]
+    },
+    {
+        "name": "specific",
+        "trans": [
+            "adj. 明确的，具体的"
+        ]
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "vt. 装饰，修饰"
+        ]
+    },
+    {
+        "name": "establish",
+        "trans": [
+            "vt. 建立，设立；确立"
+        ]
+    },
+    {
+        "name": "patient",
+        "trans": [
+            "n. 病人；耐心的人 adj. 有耐心的"
+        ]
+    },
+    {
+        "name": "recycle",
+        "trans": [
+            "v. 回收利用；再循环"
+        ]
+    },
+    {
+        "name": "medium",
+        "trans": [
+            "n. 媒介物，新闻媒介；中等"
+        ]
+    },
+    {
+        "name": "character",
+        "trans": [
+            "n. 字母，符号；性格，品质；人物"
+        ]
+    },
+    {
+        "name": "elderly",
+        "trans": [
+            "adj. 较老的，年长的 n. 老年人"
+        ]
+    },
+    {
+        "name": "private",
+        "trans": [
+            "adj. 私人的，私下的"
+        ]
+    },
+    {
+        "name": "comfortable",
+        "trans": [
+            "adj. 舒适的，安慰的"
+        ]
+    },
+    {
+        "name": "pleasure",
+        "trans": [
+            "n. 愉快，喜悦"
+        ]
+    },
+    {
+        "name": "concentrate",
+        "trans": [
+            "v. 集中，专心"
+        ]
+    },
+    {
+        "name": "pretend",
+        "trans": [
+            "v. 假装，装作"
+        ]
+    },
+    {
+        "name": "wisdom",
+        "trans": [
+            "n. 智慧，知识"
+        ]
+    },
+    {
+        "name": "rough",
+        "trans": [
+            "adj. 粗糙的，粗略的"
+        ]
+    },
+    {
+        "name": "appearance",
+        "trans": [
+            "n. 出现，露面；外观，外貌"
+        ]
+    },
+    {
+        "name": "measure",
+        "trans": [
+            "n. 措施，量度；尺寸 v. 测量，估量"
+        ]
+    },
+    {
+        "name": "figure",
+        "trans": [
+            "n. 数字，形状；身材，人物"
+        ]
+    },
+    {
+        "name": "hardly",
+        "trans": [
+            "adv. 几乎不，简直不"
+        ]
+    },
+    {
+        "name": "thrive",
+        "trans": [
+            "vi. 繁荣，兴旺"
+        ]
+    },
+    {
+        "name": "harvest",
+        "trans": [
+            "n. 收获，收成 vt. 收割"
+        ]
+    },
+    {
+        "name": "valuable",
+        "trans": [
+            "adj. 有价值的，贵重的"
+        ]
+    },
+    {
+        "name": "recommend",
+        "trans": [
+            "vt. 推荐，劝告"
+        ]
+    },
+    {
+        "name": "extreme",
+        "trans": [
+            "adj. 极端的，极度的"
+        ]
+    },
+    {
+        "name": "present",
+        "trans": [
+            "n. 礼物，现在 adj. 现在的 vt. 提供，呈现"
+        ]
+    },
+    {
+        "name": "flexible",
+        "trans": [
+            "adj. 灵活的，柔韧的"
+        ]
+    },
+    {
+        "name": "motivate",
+        "trans": [
+            "vt. 激励，激发"
+        ]
+    },
+    {
+        "name": "fortunately",
+        "trans": [
+            "adv. 幸运地，侥幸地"
+        ]
+    },
+    {
+        "name": "temperature",
+        "trans": [
+            "n. 温度"
+        ]
+    },
+    {
+        "name": "loss",
+        "trans": [
+            "n. 损失，亏损"
+        ]
+    },
+    {
+        "name": "preserve",
+        "trans": [
+            "vt. 保护，保存"
+        ]
+    },
+    {
+        "name": "mention",
+        "trans": [
+            "vt. 提及，记载"
+        ]
+    },
+    {
+        "name": "population",
+        "trans": [
+            "n. 人口，人口总数"
+        ]
+    },
+    {
+        "name": "appointment",
+        "trans": [
+            "n. 约会，任命；职位"
+        ]
+    },
+    {
+        "name": "remark",
+        "trans": [
+            "n. 评论，备注；adj. 显著的，非凡的"
+        ]
+    },
+    {
+        "name": "frequent",
+        "trans": [
+            "adj. 频繁的，常见的"
+        ]
+    },
+    {
+        "name": "perform",
+        "trans": [
+            "v. 执行，履行；表演"
+        ]
+    },
+    {
+        "name": "survive",
+        "trans": [
+            "v. 生存，存活；幸存"
+        ]
+    },
+    {
+        "name": "repair",
+        "trans": [
+            "v. 修理，修复"
+        ]
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "n. 力量，强度；体力"
+        ]
+    },
+    {
+        "name": "talent",
+        "trans": [
+            "n. 天赋，才能；人才"
+        ]
+    },
+    {
+        "name": "frighten",
+        "trans": [
+            "v. 吓唬，使惊恐"
+        ]
+    },
+    {
+        "name": "optimistic",
+        "trans": [
+            "adj. 乐观的"
+        ]
+    },
+    {
+        "name": "sentence",
+        "trans": [
+            "n. 句子；判决，宣判"
+        ]
+    },
+    {
+        "name": "degree",
+        "trans": [
+            "n. 程度，度数；学位"
+        ]
+    },
+    {
+        "name": "promote",
+        "trans": [
+            "v. 促进，提升；宣传"
+        ]
+    },
+    {
+        "name": "uncertain",
+        "trans": [
+            "adj. 不确定的"
+        ]
+    },
+    {
+        "name": "duty",
+        "trans": [
+            "n. 责任，义务；关税"
+        ]
+    },
+    {
+        "name": "romantic",
+        "trans": [
+            "adj. 浪漫的，空想的"
+        ]
+    },
+    {
+        "name": "serious",
+        "trans": [
+            "adj. 严肃的，严重的"
+        ]
+    },
+    {
+        "name": "destination",
+        "trans": [
+            "n. 目的地"
+        ]
+    },
+    {
+        "name": "suspect",
+        "trans": [
+            "v. 怀疑；n. 嫌疑人"
+        ]
+    },
+    {
+        "name": "proud",
+        "trans": [
+            "adj. 骄傲的"
+        ]
+    },
+    {
+        "name": "attention",
+        "trans": [
+            "n. 注意，关心"
+        ]
+    },
+    {
+        "name": "tough",
+        "trans": [
+            "adj. 艰苦的，坚韧的"
+        ]
+    },
+    {
+        "name": "abroad",
+        "trans": [
+            "adv. 在国外"
+        ]
+    },
+    {
+        "name": "absorb",
+        "trans": [
+            "v. 吸收，吸引"
+        ]
+    },
+    {
+        "name": "absorption",
+        "trans": [
+            "n. 吸收，吸引"
+        ]
+    },
+    {
+        "name": "accident",
+        "trans": [
+            "n. 事故，意外"
+        ]
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "adj. 精确的，准确的"
+        ]
+    },
+    {
+        "name": "admit",
+        "trans": [
+            "v. 承认，准许进入"
+        ]
+    },
+    {
+        "name": "advertise",
+        "trans": [
+            "v. 广告，宣传"
+        ]
+    },
+    {
+        "name": "agency",
+        "trans": [
+            "n. 机构，代理处"
+        ]
+    },
+    {
+        "name": "aid",
+        "trans": [
+            "n. 援助，帮助；v. 援助"
+        ]
+    },
+    {
+        "name": "aim",
+        "trans": [
+            "n. 目标；v. 瞄准，打算"
+        ]
+    },
+    {
+        "name": "amuse",
+        "trans": [
+            "v. 娱乐，逗乐"
+        ]
+    },
+    {
+        "name": "ancient",
+        "trans": [
+            "adj. 古代的，古老的"
+        ]
+    },
+    {
+        "name": "announce",
+        "trans": [
+            "v. 宣布，宣告"
+        ]
+    },
+    {
+        "name": "annoy",
+        "trans": [
+            "v. 使烦恼，打扰"
+        ]
+    },
+    {
+        "name": "apology",
+        "trans": [
+            "n. 道歉，歉意"
+        ]
+    },
+    {
+        "name": "appoint",
+        "trans": [
+            "v. 任命，约定"
+        ]
+    },
+    {
+        "name": "approach",
+        "trans": [
+            "n. 方法，接近；v. 接近"
+        ]
+    },
+    {
+        "name": "appropriate",
+        "trans": [
+            "adj. 适当的，恰当的"
+        ]
+    },
+    {
+        "name": "ashamed",
+        "trans": [
+            "adj. 羞愧的，惭愧的"
+        ]
+    },
+    {
+        "name": "aspect",
+        "trans": [
+            "n. 方面，外观"
+        ]
+    },
+    {
+        "name": "assignment",
+        "trans": [
+            "n. 任务，作业"
+        ]
+    },
+    {
+        "name": "associate",
+        "trans": [
+            "v. 关联，联想；n. 伙伴"
+        ]
+    },
+    {
+        "name": "audience",
+        "trans": [
+            "n. 观众，听众"
+        ]
+    },
+    {
+        "name": "authority",
+        "trans": [
+            "n. 权威，权力"
+        ]
+    },
+    {
+        "name": "awake",
+        "trans": [
+            "adj. 醒着的，意识到的"
+        ]
+    },
+    {
+        "name": "award",
+        "trans": [
+            "n. 奖品，奖金；v. 授予"
+        ]
+    },
+    {
+        "name": "barbecue",
+        "trans": [
+            "n. 烧烤，烤肉"
+        ]
+    },
+    {
+        "name": "bargain",
+        "trans": [
+            "n. 便宜货，交易；v. 讨价还价"
+        ]
+    },
+    {
+        "name": "beat",
+        "trans": [
+            "v. 打，敲；n. 节拍"
+        ]
+    },
+    {
+        "name": "bend",
+        "trans": [
+            "v. 弯曲，折弯"
+        ]
+    },
+    {
+        "name": "beneficial",
+        "trans": [
+            "adj. 有益的"
+        ]
+    },
+    {
+        "name": "biological",
+        "trans": [
+            "adj. 生物的，生物学的"
+        ]
+    },
+    {
+        "name": "bless",
+        "trans": [
+            "v. 祝福"
+        ]
+    },
+    {
+        "name": "blind",
+        "trans": [
+            "adj. 盲的；v. 使失明"
+        ]
+    },
+    {
+        "name": "blow",
+        "trans": [
+            "v. 吹，吹气；n. 打击"
+        ]
+    },
+    {
+        "name": "boost",
+        "trans": [
+            "v. 提高，促进"
+        ]
+    },
+    {
+        "name": "bore",
+        "trans": [
+            "v. 使厌烦"
+        ]
+    },
+    {
+        "name": "boundary",
+        "trans": [
+            "n. 边界，界限"
+        ]
+    },
+    {
+        "name": "brochure",
+        "trans": [
+            "n. 小册子"
+        ]
+    },
+    {
+        "name": "calm",
+        "trans": [
+            "adj. 平静的，冷静的；v. 使平静"
+        ]
+    },
+    {
+        "name": "campaign",
+        "trans": [
+            "n. 运动，战役"
+        ]
+    },
+    {
+        "name": "capacity",
+        "trans": [
+            "n. 容量，能力"
+        ]
+    },
+    {
+        "name": "casual",
+        "trans": [
+            "adj. 偶然的，非正式的"
+        ]
+    },
+    {
+        "name": "category",
+        "trans": [
+            "n. 类别，种类"
+        ]
+    },
+    {
+        "name": "century",
+        "trans": [
+            "n. 世纪，百年"
+        ]
+    },
+    {
+        "name": "charity",
+        "trans": [
+            "n. 慈善，施舍"
+        ]
+    },
+    {
+        "name": "cheek",
+        "trans": [
+            "n. 面颊"
+        ]
+    },
+    {
+        "name": "childhood",
+        "trans": [
+            "n. 童年"
+        ]
+    },
+    {
+        "name": "chip",
+        "trans": [
+            "n. 芯片，碎片；v. 削成薄片"
+        ]
+    },
+    {
+        "name": "christmas",
+        "trans": [
+            "n. 圣诞节"
+        ]
+    },
+    {
+        "name": "circumstance",
+        "trans": [
+            "n. 情况，环境；境遇"
+        ]
+    },
+    {
+        "name": "civilization",
+        "trans": [
+            "n. 文明"
+        ]
+    },
+    {
+        "name": "claim",
+        "trans": [
+            "n. 要求，主张；索赔；v. 声称"
+        ]
+    },
+    {
+        "name": "climate",
+        "trans": [
+            "n. 气候"
+        ]
+    },
+    {
+        "name": "climb",
+        "trans": [
+            "v. 爬，攀登"
+        ]
+    },
+    {
+        "name": "closet",
+        "trans": [
+            "n. 橱柜，壁橱"
+        ]
+    },
+    {
+        "name": "colleague",
+        "trans": [
+            "n. 同事"
+        ]
+    },
+    {
+        "name": "comfort",
+        "trans": [
+            "n. 安慰，舒适；v. 安慰"
+        ]
+    },
+    {
+        "name": "comic",
+        "trans": [
+            "n. 连环图画，漫画；adj. 滑稽的"
+        ]
+    },
+    {
+        "name": "command",
+        "trans": [
+            "n. 命令，指挥；司令部，指挥部；[计算机]指令；控制力 vt. 指挥，控制，命令；命令；应得，值得 vi. 给出命令；命令，指令 adj. 指挥的，根据命令（或要求）而作的"
+        ]
+    },
+    {
+        "name": "comment",
+        "trans": [
+            "n. 评论，意见"
+        ]
+    },
+    {
+        "name": "commute",
+        "trans": [
+            "v. 通勤"
+        ]
+    },
+    {
+        "name": "compete",
+        "trans": [
+            "v. 竞争，对抗"
+        ]
+    },
+    {
+        "name": "compliment",
+        "trans": [
+            "n. 赞美，称赞；v. 赞美"
+        ]
+    },
+    {
+        "name": "concept",
+        "trans": [
+            "n. 概念，观念"
+        ]
+    },
+    {
+        "name": "concession",
+        "trans": [
+            "n. 让步，特许权"
+        ]
+    },
+    {
+        "name": "conclusion",
+        "trans": [
+            "n. 结论，结束"
+        ]
+    },
+    {
+        "name": "conduct",
+        "trans": [
+            "n. 行为，管理；v. 指挥，进行"
+        ]
+    },
+    {
+        "name": "conflict",
+        "trans": [
+            "n. 冲突，争执"
+        ]
+    },
+    {
+        "name": "confront",
+        "trans": [
+            "v. 面对，遭遇"
+        ]
+    },
+    {
+        "name": "connect",
+        "trans": [
+            "v. 连接，联系"
+        ]
+    },
+    {
+        "name": "conscious",
+        "trans": [
+            "adj. 有意识的，神志清醒的"
+        ]
+    },
+    {
+        "name": "construction",
+        "trans": [
+            "n. 建设，建筑物"
+        ]
+    },
+    {
+        "name": "consume",
+        "trans": [
+            "v. 消耗，消费"
+        ]
+    },
+    {
+        "name": "consumption",
+        "trans": [
+            "n. 消费，消耗"
+        ]
+    },
+    {
+        "name": "context",
+        "trans": [
+            "n. 上下文，语境"
+        ]
+    },
+    {
+        "name": "contrary",
+        "trans": [
+            "n. 相反，反面；adj. 相反的"
+        ]
+    },
+    {
+        "name": "convenience",
+        "trans": [
+            "n. 便利，方便"
+        ]
+    },
+    {
+        "name": "corporation",
+        "trans": [
+            "n. 公司，企业"
+        ]
+    },
+    {
+        "name": "cough",
+        "trans": [
+            "n. & v. 咳嗽"
+        ]
+    },
+    {
+        "name": "counter",
+        "trans": [
+            "n. 柜台；v. 反击，还击"
+        ]
+    },
+    {
+        "name": "countless",
+        "trans": [
+            "adj. 无数的，数不清的"
+        ]
+    },
+    {
+        "name": "crash",
+        "trans": [
+            "n. 碰撞，坠落；v. 碰撞，坠落"
+        ]
+    },
+    {
+        "name": "criminal",
+        "trans": [
+            "n. 罪犯，犯罪者；adj. 犯罪的"
+        ]
+    },
+    {
+        "name": "crisis",
+        "trans": [
+            "n. 危机"
+        ]
+    },
+    {
+        "name": "criticize",
+        "trans": [
+            "v. 批评，评论"
+        ]
+    },
+    {
+        "name": "crowd",
+        "trans": [
+            "n. 人群；v. 挤满，拥挤"
+        ]
+    },
+    {
+        "name": "cultivate",
+        "trans": [
+            "v. 培养，耕作"
+        ]
+    },
+    {
+        "name": "cure",
+        "trans": [
+            "n. & v. 治疗，治愈"
+        ]
+    },
+    {
+        "name": "dare",
+        "trans": [
+            "v. 敢，敢于"
+        ]
+    },
+    {
+        "name": "daytime",
+        "trans": [
+            "n. 白天，日间"
+        ]
+    },
+    {
+        "name": "debt",
+        "trans": [
+            "n. 债务，欠债"
+        ]
+    },
+    {
+        "name": "decade",
+        "trans": [
+            "n. 十年"
+        ]
+    },
+    {
+        "name": "decline",
+        "trans": [
+            "n. 下降，衰退；v. 拒绝，衰退"
+        ]
+    },
+    {
+        "name": "dedication",
+        "trans": [
+            "n. 奉献，献身"
+        ]
+    },
+    {
+        "name": "deepen",
+        "trans": [
+            "v. 加深，深化"
+        ]
+    },
+    {
+        "name": "defend",
+        "trans": [
+            "v. 防守，保卫"
+        ]
+    },
+    {
+        "name": "defense",
+        "trans": [
+            "n. 防御，保卫"
+        ]
+    },
+    {
+        "name": "definite",
+        "trans": [
+            "adj. 明确的，确定的"
+        ]
+    },
+    {
+        "name": "deliberate",
+        "trans": [
+            "adj. 故意的，蓄意的"
+        ]
+    },
+    {
+        "name": "deliver",
+        "trans": [
+            "v. 递送，交付"
+        ]
+    },
+    {
+        "name": "demonstrate",
+        "trans": [
+            "v. 演示，证明"
+        ]
+    },
+    {
+        "name": "deny",
+        "trans": [
+            "v. 否认，拒绝"
+        ]
+    },
+    {
+        "name": "depress",
+        "trans": [
+            "v. 使沮丧，压低"
+        ]
+    },
+    {
+        "name": "desert",
+        "trans": [
+            "n. 沙漠；v. 抛弃，遗弃"
+        ]
+    },
+    {
+        "name": "determine",
+        "trans": [
+            "v. 决定，确定"
+        ]
+    },
+    {
+        "name": "devote",
+        "trans": [
+            "v. 投入，献身"
+        ]
+    },
+    {
+        "name": "devotion",
+        "trans": [
+            "n. 献身，忠诚"
+        ]
+    },
+    {
+        "name": "diagnose",
+        "trans": [
+            "v. 诊断"
+        ]
+    },
+    {
+        "name": "dialect",
+        "trans": [
+            "n. 方言"
+        ]
+    },
+    {
+        "name": "director",
+        "trans": [
+            "n. 导演，主任"
+        ]
+    },
+    {
+        "name": "disappear",
+        "trans": [
+            "v. 消失"
+        ]
+    },
+    {
+        "name": "discipline",
+        "trans": [
+            "n. 纪律，训练；v. 训练，惩罚"
+        ]
+    },
+    {
+        "name": "discount",
+        "trans": [
+            "n. 折扣；v. 打折扣"
+        ]
+    },
+    {
+        "name": "disorder",
+        "trans": [
+            "n. 混乱，失调"
+        ]
+    },
+    {
+        "name": "distinguish",
+        "trans": [
+            "v. 区分，辨别"
+        ]
+    },
+    {
+        "name": "distribute",
+        "trans": [
+            "v. 分配，分发"
+        ]
+    },
+    {
+        "name": "divide",
+        "trans": [
+            "v. 分开，分割"
+        ]
+    },
+    {
+        "name": "donate",
+        "trans": [
+            "v. 捐赠"
+        ]
+    },
+    {
+        "name": "due to",
+        "trans": [
+            "因为，由于"
+        ]
+    },
+    {
+        "name": "dust",
+        "trans": [
+            "n. 灰尘，尘土"
+        ]
+    },
+    {
+        "name": "eager",
+        "trans": [
+            "adj. 渴望的，热切的"
+        ]
+    },
+    {
+        "name": "ease",
+        "trans": [
+            "n. 容易，舒适；v. 减轻"
+        ]
+    },
+    {
+        "name": "economy",
+        "trans": [
+            "n. 经济"
+        ]
+    },
+    {
+        "name": "effective",
+        "trans": [
+            "adj. 有效的，生效的"
+        ]
+    },
+    {
+        "name": "efficient",
+        "trans": [
+            "adj. 高效的，效率高的"
+        ]
+    },
+    {
+        "name": "elaborate",
+        "trans": [
+            "adj. 精心制作的，复杂的；v. 精心制作"
+        ]
+    },
+    {
+        "name": "embarrass",
+        "trans": [
+            "v. 使尴尬，使困扰"
+        ]
+    },
+    {
+        "name": "emission",
+        "trans": [
+            "n. 散发，排放"
+        ]
+    },
+    {
+        "name": "empire",
+        "trans": [
+            "n. 帝国"
+        ]
+    },
+    {
+        "name": "encourage",
+        "trans": [
+            "v. 鼓励，激励"
+        ]
+    },
+    {
+        "name": "engage",
+        "trans": [
+            "v. 参与，从事；订婚"
+        ]
+    },
+    {
+        "name": "enhance",
+        "trans": [
+            "v. 提高，增强"
+        ]
+    },
+    {
+        "name": "ensure",
+        "trans": [
+            "v. 确保，保证"
+        ]
+    },
+    {
+        "name": "entertainment",
+        "trans": [
+            "n. 娱乐"
+        ]
+    },
+    {
+        "name": "entrance",
+        "trans": [
+            "n. 入口，进入；v. 使入迷"
+        ]
+    },
+    {
+        "name": "equally",
+        "trans": [
+            "adv. 相等地，平等地"
+        ]
+    },
+    {
+        "name": "equipment",
+        "trans": [
+            "n. 装备，设备"
+        ]
+    },
+    {
+        "name": "essay",
+        "trans": [
+            "n. 文章，随笔"
+        ]
+    },
+    {
+        "name": "estimate",
+        "trans": [
+            "n. 估计，估价；v. 估计"
+        ]
+    },
+    {
+        "name": "evident",
+        "trans": [
+            "adj. 明显的，显而易见的"
+        ]
+    },
+    {
+        "name": "exact",
+        "trans": [
+            "adj. 精确的，确切的"
+        ]
+    },
+    {
+        "name": "exam",
+        "trans": [
+            "n. 考试"
+        ]
+    },
+    {
+        "name": "examine",
+        "trans": [
+            "v. 检查，审查"
+        ]
+    },
+    {
+        "name": "excessive",
+        "trans": [
+            "adj. 过度的，过分的"
+        ]
+    },
+    {
+        "name": "excite",
+        "trans": [
+            "v. 使兴奋，激发"
+        ]
+    },
+    {
+        "name": "excuse",
+        "trans": [
+            "n. 借口，理由；v. 原谅"
+        ]
+    },
+    {
+        "name": "exhibit",
+        "trans": [
+            "v. 展出，展览；n. 展览品"
+        ]
+    },
+    {
+        "name": "experiment",
+        "trans": [
+            "n. 实验"
+        ]
+    },
+    {
+        "name": "explorer",
+        "trans": [
+            "n. 探险家"
+        ]
+    },
+    {
+        "name": "explosive",
+        "trans": [
+            "adj. 爆炸的；n. 爆炸物"
+        ]
+    },
+    {
+        "name": "extra",
+        "trans": [
+            "adj. 额外的；n. 额外的事物"
+        ]
+    },
+    {
+        "name": "extraordinary",
+        "trans": [
+            "adj. 非凡的，特别的"
+        ]
+    },
+    {
+        "name": "fame",
+        "trans": [
+            "n. 名声，名望"
+        ]
+    },
+    {
+        "name": "famine",
+        "trans": [
+            "n. 饥荒"
+        ]
+    },
+    {
+        "name": "favor",
+        "trans": [
+            "n. 帮助，恩惠；v. 赞成"
+        ]
+    },
+    {
+        "name": "fee",
+        "trans": [
+            "n. 费用，酬金"
+        ]
+    },
+    {
+        "name": "fellow",
+        "trans": [
+            "n. 同事，伙伴"
+        ]
+    },
+    {
+        "name": "fever",
+        "trans": [
+            "n. 发烧，发热"
+        ]
+    },
+    {
+        "name": "field",
+        "trans": [
+            "n. 田地，领域"
+        ]
+    },
+    {
+        "name": "firmly",
+        "trans": [
+            "adv. 坚定地，牢固地"
+        ]
+    },
+    {
+        "name": "flavor",
+        "trans": [
+            "n. 味道，风味"
+        ]
+    },
+    {
+        "name": "fleshy",
+        "trans": [
+            "adj. 肉的，多肉的"
+        ]
+    },
+    {
+        "name": "force",
+        "trans": [
+            "n. 力量，武力；v. 强迫，用力"
+        ]
+    },
+    {
+        "name": "form",
+        "trans": [
+            "n. 形式，表格；v. 形成"
+        ]
+    },
+    {
+        "name": "former",
+        "trans": [
+            "adj. 以前的，前者的"
+        ]
+    },
+    {
+        "name": "forth",
+        "trans": [
+            "adv. 向前"
+        ]
+    },
+    {
+        "name": "forward",
+        "trans": [
+            "adv. 向前；adj. 向前的；v. 转交"
+        ]
+    },
+    {
+        "name": "fuel",
+        "trans": [
+            "n. 燃料，燃料剂"
+        ]
+    },
+    {
+        "name": "funeral",
+        "trans": [
+            "n. 葬礼"
+        ]
+    },
+    {
+        "name": "furthermore",
+        "trans": [
+            "adv. 此外，而且"
+        ]
+    },
+    {
+        "name": "gain",
+        "trans": [
+            "v. 获得，增加；n. 收益"
+        ]
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "v. 聚集，收集"
+        ]
+    },
+    {
+        "name": "gene",
+        "trans": [
+            "n. 基因"
+        ]
+    },
+    {
+        "name": "generous",
+        "trans": [
+            "adj. 慷慨的，宽宏大量的"
+        ]
+    },
+    {
+        "name": "gently",
+        "trans": [
+            "adv. 温柔地，轻轻地"
+        ]
+    },
+    {
+        "name": "gesture",
+        "trans": [
+            "n. 手势，姿态"
+        ]
+    },
+    {
+        "name": "glance",
+        "trans": [
+            "n. 一瞥，扫视；v. 瞥见"
+        ]
+    },
+    {
+        "name": "globe",
+        "trans": [
+            "n. 地球仪，球体"
+        ]
+    },
+    {
+        "name": "glory",
+        "trans": [
+            "n. 光荣，荣誉"
+        ]
+    },
+    {
+        "name": "glove",
+        "trans": [
+            "n. 手套"
+        ]
+    },
+    {
+        "name": "gradually",
+        "trans": [
+            "adv. 逐渐地"
+        ]
+    },
+    {
+        "name": "graduation",
+        "trans": [
+            "n. 毕业，毕业典礼"
+        ]
+    },
+    {
+        "name": "grain",
+        "trans": [
+            "n. 谷物，颗粒"
+        ]
+    },
+    {
+        "name": "grape",
+        "trans": [
+            "n. 葡萄"
+        ]
+    },
+    {
+        "name": "grasp",
+        "trans": [
+            "v. 抓住，抓紧；n. 理解，领会"
+        ]
+    },
+    {
+        "name": "gratitude",
+        "trans": [
+            "n. 感激，感谢"
+        ]
+    },
+    {
+        "name": "greatly",
+        "trans": [
+            "adv. 极大地，非常"
+        ]
+    },
+    {
+        "name": "greed",
+        "trans": [
+            "n. 贪婪"
+        ]
+    },
+    {
+        "name": "greenhouse",
+        "trans": [
+            "n. 温室"
+        ]
+    },
+    {
+        "name": "grill",
+        "trans": [
+            "n. 烤架，烤肉；v. 烤"
+        ]
+    },
+    {
+        "name": "grip",
+        "trans": [
+            "n. 紧握，抓握；v. 抓住"
+        ]
+    },
+    {
+        "name": "guidance",
+        "trans": [
+            "n. 指导，引导"
+        ]
+    },
+    {
+        "name": "hall",
+        "trans": [
+            "n. 大厅，礼堂"
+        ]
+    },
+    {
+        "name": "handful",
+        "trans": [
+            "n. 一把，少数"
+        ]
+    },
+    {
+        "name": "handshake",
+        "trans": [
+            "n. 握手"
+        ]
+    },
+    {
+        "name": "heal",
+        "trans": [
+            "v. 治愈，痊愈"
+        ]
+    },
+    {
+        "name": "helpless",
+        "trans": [
+            "adj. 无助的，无能的"
+        ]
+    },
+    {
+        "name": "historical",
+        "trans": [
+            "adj. 历史的"
+        ]
+    },
+    {
+        "name": "honesty",
+        "trans": [
+            "n. 诚实，正直"
+        ]
+    },
+    {
+        "name": "hospitality",
+        "trans": [
+            "n. 好客，款待"
+        ]
+    },
+    {
+        "name": "housework",
+        "trans": [
+            "n. 家务"
+        ]
+    },
+    {
+        "name": "humid",
+        "trans": [
+            "adj. 潮湿的"
+        ]
+    },
+    {
+        "name": "ideally",
+        "trans": [
+            "adv. 理想地"
+        ]
+    },
+    {
+        "name": "identity",
+        "trans": [
+            "n. 身份，特性"
+        ]
+    },
+    {
+        "name": "illegal",
+        "trans": [
+            "adj. 非法的"
+        ]
+    },
+    {
+        "name": "immediate",
+        "trans": [
+            "adj. 立即的，直接的"
+        ]
+    },
+    {
+        "name": "interpret",
+        "trans": [
+            "v. 解释，诠释"
+        ]
+    },
+    {
+        "name": "interview",
+        "trans": [
+            "n. 面试，采访；v. 面试，采访"
+        ]
+    },
+    {
+        "name": "inventor",
+        "trans": [
+            "n. 发明家"
+        ]
+    },
+    {
+        "name": "isolate",
+        "trans": [
+            "v. 隔离，孤立"
+        ]
+    },
+    {
+        "name": "item",
+        "trans": [
+            "n. 项目，条款"
+        ]
+    },
+    {
+        "name": "jam",
+        "trans": [
+            "n. 果酱；拥挤，堵塞"
+        ]
+    },
+    {
+        "name": "jet",
+        "trans": [
+            "n. 喷气式飞机；v. 喷射"
+        ]
+    },
+    {
+        "name": "judge",
+        "trans": [
+            "n. 法官；v. 判断，审判"
+        ]
+    },
+    {
+        "name": "justify",
+        "trans": [
+            "v. 证明...正当，为...辩护"
+        ]
+    },
+    {
+        "name": "kick",
+        "trans": [
+            "v. 踢；n. 踢"
+        ]
+    },
+    {
+        "name": "kilogram",
+        "trans": [
+            "n. 千克"
+        ]
+    },
+    {
+        "name": "labor",
+        "trans": [
+            "n. 劳动，工作"
+        ]
+    },
+    {
+        "name": "largely",
+        "trans": [
+            "adv. 大部分地，主要地"
+        ]
+    },
+    {
+        "name": "lawful",
+        "trans": [
+            "adj. 合法的"
+        ]
+    },
+    {
+        "name": "lawless",
+        "trans": [
+            "adj. 无法的，不法的"
+        ]
+    },
+    {
+        "name": "leader",
+        "trans": [
+            "n. 领导者"
+        ]
+    },
+    {
+        "name": "lecture",
+        "trans": [
+            "n. 演讲，讲课；v. 演讲，训诫"
+        ]
+    },
+    {
+        "name": "leftover",
+        "trans": [
+            "n. 剩余物，剩饭"
+        ]
+    },
+    {
+        "name": "lengthen",
+        "trans": [
+            "v. 延长"
+        ]
+    },
+    {
+        "name": "liar",
+        "trans": [
+            "n. 说谎者"
+        ]
+    },
+    {
+        "name": "lifelong",
+        "trans": [
+            "adj. 终身的"
+        ]
+    },
+    {
+        "name": "lifetime",
+        "trans": [
+            "n. 一生，终生"
+        ]
+    },
+    {
+        "name": "lift",
+        "trans": [
+            "v. 举起，提升；n. 电梯"
+        ]
+    },
+    {
+        "name": "liter",
+        "trans": [
+            "n. 升"
+        ]
+    },
+    {
+        "name": "loaf",
+        "trans": [
+            "n. 一条面包"
+        ]
+    },
+    {
+        "name": "loan",
+        "trans": [
+            "n. 贷款"
+        ]
+    },
+    {
+        "name": "lone",
+        "trans": [
+            "adj. 孤独的，单独的"
+        ]
+    },
+    {
+        "name": "loudly",
+        "trans": [
+            "adv. 大声地"
+        ]
+    },
+    {
+        "name": "loyalty",
+        "trans": [
+            "n. 忠诚"
+        ]
+    },
+    {
+        "name": "magical",
+        "trans": [
+            "adj. 魔法的，迷人的"
+        ]
+    },
+    {
+        "name": "maintenance",
+        "trans": [
+            "n. 维护，保养"
+        ]
+    },
+    {
+        "name": "manufacture",
+        "trans": [
+            "n. 制造，制造业；v. 制造"
+        ]
+    },
+    {
+        "name": "medicine",
+        "trans": [
+            "n. 药，医药"
+        ]
+    },
+    {
+        "name": "memorize",
+        "trans": [
+            "v. 记住，熟记"
+        ]
+    },
+    {
+        "name": "merely",
+        "trans": [
+            "adv. 仅仅，只不过"
+        ]
+    },
+    {
+        "name": "migration",
+        "trans": [
+            "n. 迁移，移居"
+        ]
+    },
+    {
+        "name": "millionaire",
+        "trans": [
+            "n. 百万富翁"
+        ]
+    },
+    {
+        "name": "miracle",
+        "trans": [
+            "n. 奇迹"
+        ]
+    },
+    {
+        "name": "mixture",
+        "trans": [
+            "n. 混合物"
+        ]
+    },
+    {
+        "name": "modern",
+        "trans": [
+            "adj. 现代的"
+        ]
+    },
+    {
+        "name": "modesty",
+        "trans": [
+            "n. 谦逊，节制"
+        ]
+    },
+    {
+        "name": "motorcycle",
+        "trans": [
+            "n. 摩托车"
+        ]
+    },
+    {
+        "name": "multiple",
+        "trans": [
+            "adj. 多样的，多重的"
+        ]
+    },
+    {
+        "name": "naughty",
+        "trans": [
+            "adj. 淘气的，不听话的"
+        ]
+    },
+    {
+        "name": "neglect",
+        "trans": [
+            "v. 忽视，忽略"
+        ]
+    },
+    {
+        "name": "negotiate",
+        "trans": [
+            "v. 谈判，协商"
+        ]
+    },
+    {
+        "name": "neighbor",
+        "trans": [
+            "n. 邻居"
+        ]
+    },
+    {
+        "name": "neither",
+        "trans": [
+            "pron. 两者都不；conj. 也不"
+        ]
+    },
+    {
+        "name": "norm",
+        "trans": [
+            "n. 标准，规范"
+        ]
+    },
+    {
+        "name": "nourish",
+        "trans": [
+            "v. 滋养，培育"
+        ]
+    },
+    {
+        "name": "numb",
+        "trans": [
+            "adj. 麻木的，失去感觉的"
+        ]
+    },
+    {
+        "name": "obscure",
+        "trans": [
+            "adj. 昏暗的，不明显的；v. 使模糊"
+        ]
+    },
+    {
+        "name": "observant",
+        "trans": [
+            "adj. 观察敏锐的，注意到的"
+        ]
+    },
+    {
+        "name": "obviously",
+        "trans": [
+            "adv. 明显地，显然地"
+        ]
+    },
+    {
+        "name": "occupy",
+        "trans": [
+            "v. 占据，占领"
+        ]
+    },
+    {
+        "name": "ongoing",
+        "trans": [
+            "adj. 进行中的，持续的"
+        ]
+    },
+    {
+        "name": "ordinary",
+        "trans": [
+            "adj. 普通的，平凡的"
+        ]
+    },
+    {
+        "name": "organic",
+        "trans": [
+            "adj. 有机的，有机食品的"
+        ]
+    },
+    {
+        "name": "outcome",
+        "trans": [
+            "n. 结果，成果"
+        ]
+    },
+    {
+        "name": "outlook",
+        "trans": [
+            "n. 展望，观点；景色"
+        ]
+    },
+    {
+        "name": "outside",
+        "trans": [
+            "n. 外面；adj. 外面的；adv. 在外面"
+        ]
+    },
+    {
+        "name": "overcome",
+        "trans": [
+            "v. 克服，战胜"
+        ]
+    },
+    {
+        "name": "overhear",
+        "trans": [
+            "v. 无意中听到"
+        ]
+    },
+    {
+        "name": "overlook",
+        "trans": [
+            "v. 忽视，俯瞰"
+        ]
+    },
+    {
+        "name": "overnight",
+        "trans": [
+            "adv. 在夜间，突然；adj. 夜间的"
+        ]
+    },
+    {
+        "name": "overweight",
+        "trans": [
+            "adj. 超重的，过重的"
+        ]
+    },
+    {
+        "name": "pact",
+        "trans": [
+            "n. 协定，公约"
+        ]
+    },
+    {
+        "name": "panic",
+        "trans": [
+            "n. 恐慌，惊慌；v. 使恐慌"
+        ]
+    },
+    {
+        "name": "particular",
+        "trans": [
+            "adj. 特别的，特定的"
+        ]
+    },
+    {
+        "name": "partner",
+        "trans": [
+            "n. 伙伴，合伙人"
+        ]
+    },
+    {
+        "name": "passenger",
+        "trans": [
+            "n. 乘客，旅客"
+        ]
+    },
+    {
+        "name": "passion",
+        "trans": [
+            "n. 激情，热情"
+        ]
+    },
+    {
+        "name": "paste",
+        "trans": [
+            "n. 糊，浆糊；v. 粘贴"
+        ]
+    },
+    {
+        "name": "pause",
+        "trans": [
+            "n. 暂停，停顿；v. 暂停"
+        ]
+    },
+    {
+        "name": "pave",
+        "trans": [
+            "v. 铺，铺设"
+        ]
+    },
+    {
+        "name": "pear",
+        "trans": [
+            "n. 梨子"
+        ]
+    },
+    {
+        "name": "peer",
+        "trans": [
+            "n. 同龄人，同辈；v. 凝视"
+        ]
+    },
+    {
+        "name": "personality",
+        "trans": [
+            "n. 个性，人格"
+        ]
+    },
+    {
+        "name": "persuade",
+        "trans": [
+            "v. 说服，劝说"
+        ]
+    },
+    {
+        "name": "pity",
+        "trans": [
+            "n. 同情，怜悯；v. 同情"
+        ]
+    },
+    {
+        "name": "plot",
+        "trans": [
+            "n. 情节，阴谋；v. 密谋，绘图"
+        ]
+    },
+    {
+        "name": "plum",
+        "trans": [
+            "n. 李子，梅子"
+        ]
+    },
+    {
+        "name": "politician",
+        "trans": [
+            "n. 政治家，政客"
+        ]
+    },
+    {
+        "name": "portion",
+        "trans": [
+            "n. 一部分，一份"
+        ]
+    },
+    {
+        "name": "possess",
+        "trans": [
+            "v. 拥有，占有"
+        ]
+    },
+    {
+        "name": "practical",
+        "trans": [
+            "adj. 实际的，实用的"
+        ]
+    },
+    {
+        "name": "predict",
+        "trans": [
+            "v. 预测，预言"
+        ]
+    },
+    {
+        "name": "prescribe",
+        "trans": [
+            "v. 开处方，规定"
+        ]
+    },
+    {
+        "name": "primarily",
+        "trans": [
+            "adv. 主要地，首先"
+        ]
+    },
+    {
+        "name": "prize",
+        "trans": [
+            "n. 奖品，奖金；v. 珍视"
+        ]
+    },
+    {
+        "name": "procedure",
+        "trans": [
+            "n. 程序，手续"
+        ]
+    },
+    {
+        "name": "proceed",
+        "trans": [
+            "v. 进行，继续"
+        ]
+    },
+    {
+        "name": "production",
+        "trans": [
+            "n. 生产，产量"
+        ]
+    },
+    {
+        "name": "productive",
+        "trans": [
+            "adj. 生产的，多产的"
+        ]
+    },
+    {
+        "name": "profit",
+        "trans": [
+            "n. 利润，收益；v. 有益于"
+        ]
+    },
+    {
+        "name": "prompt",
+        "trans": [
+            "adj. 敏捷的，迅速的；n. 提示，激励；v. 促使"
+        ]
+    },
+    {
+        "name": "proper",
+        "trans": [
+            "adj. 适当的，恰当的"
+        ]
+    },
+    {
+        "name": "properly",
+        "trans": [
+            "adv. 适当地，恰当地"
+        ]
+    },
+    {
+        "name": "pump",
+        "trans": [
+            "n. 泵；v. 用泵抽"
+        ]
+    },
+    {
+        "name": "purpose",
+        "trans": [
+            "n. 目的，意图"
+        ]
+    },
+    {
+        "name": "pursue",
+        "trans": [
+            "v. 追求，追踪"
+        ]
+    },
+    {
+        "name": "puzzle",
+        "trans": [
+            "n. 难题，谜；v. 使困惑"
+        ]
+    },
+    {
+        "name": "qualify",
+        "trans": [
+            "v. 使具有资格，限制"
+        ]
+    },
+    {
+        "name": "randomly",
+        "trans": [
+            "adv. 随机地，任意地"
+        ]
+    },
+    {
+        "name": "rare",
+        "trans": [
+            "adj. 稀有的，罕见的"
+        ]
+    },
+    {
+        "name": "rather",
+        "trans": [
+            "adv. 相当，宁可"
+        ]
+    },
+    {
+        "name": "reapply",
+        "trans": [
+            "v. 重新申请"
+        ]
+    },
+    {
+        "name": "recently",
+        "trans": [
+            "adv. 最近"
+        ]
+    },
+    {
+        "name": "refer",
+        "trans": [
+            "v. 参考，涉及"
+        ]
+    },
+    {
+        "name": "reference",
+        "trans": [
+            "n. 参考，提及"
+        ]
+    },
+    {
+        "name": "refrigerator",
+        "trans": [
+            "n. 冰箱"
+        ]
+    },
+    {
+        "name": "regard",
+        "trans": [
+            "n. 尊重，关注；v. 看待，考虑"
+        ]
+    },
+    {
+        "name": "regardless",
+        "trans": [
+            "adv. 不顾，不管怎样"
+        ]
+    },
+    {
+        "name": "region",
+        "trans": [
+            "n. 地区，区域"
+        ]
+    },
+    {
+        "name": "regret",
+        "trans": [
+            "n. 遗憾，懊悔；v. 遗憾"
+        ]
+    },
+    {
+        "name": "regular",
+        "trans": [
+            "adj. 规律的，定期的"
+        ]
+    },
+    {
+        "name": "rejection",
+        "trans": [
+            "n. 拒绝，否决"
+        ]
+    },
+    {
+        "name": "reliance",
+        "trans": [
+            "n. 依赖，信赖"
+        ]
+    },
+    {
+        "name": "relief",
+        "trans": [
+            "n. 缓解，救济"
+        ]
+    },
+    {
+        "name": "religion",
+        "trans": [
+            "n. 宗教"
+        ]
+    },
+    {
+        "name": "rely",
+        "trans": [
+            "v. 依赖，依靠"
+        ]
+    },
+    {
+        "name": "remain",
+        "trans": [
+            "v. 留下，保持"
+        ]
+    },
+    {
+        "name": "renew",
+        "trans": [
+            "v. 续订，更新"
+        ]
+    },
+    {
+        "name": "represent",
+        "trans": [
+            "v. 代表，象征"
+        ]
+    },
+    {
+        "name": "research",
+        "trans": [
+            "n. 研究；v. 调查，研究"
+        ]
+    },
+    {
+        "name": "respect",
+        "trans": [
+            "n. 尊敬，敬意；v. 尊敬"
+        ]
+    },
+    {
+        "name": "retail",
+        "trans": [
+            "n. 零售；adj. 零售的"
+        ]
+    },
+    {
+        "name": "retirement",
+        "trans": [
+            "n. 退休"
+        ]
+    },
+    {
+        "name": "revolution",
+        "trans": [
+            "n. 革命"
+        ]
+    },
+    {
+        "name": "rhythm",
+        "trans": [
+            "n. 节奏，韵律"
+        ]
+    },
+    {
+        "name": "ridicule",
+        "trans": [
+            "n. 嘲笑，愚弄；v. 嘲笑"
+        ]
+    },
+    {
+        "name": "rise",
+        "trans": [
+            "n. 上升，增长；v. 上升，升起"
+        ]
+    },
+    {
+        "name": "roar",
+        "trans": [
+            "n. 吼叫，咆哮；v. 吼叫，咆哮"
+        ]
+    },
+    {
+        "name": "rouse",
+        "trans": [
+            "v. 唤醒，激起"
+        ]
+    },
+    {
+        "name": "rush",
+        "trans": [
+            "n. 冲，匆忙；v. 冲，赶紧"
+        ]
+    },
+    {
+        "name": "sacrifice",
+        "trans": [
+            "n. 牺牲；v. 牺牲"
+        ]
+    },
+    {
+        "name": "sadness",
+        "trans": [
+            "n. 悲伤，忧愁"
+        ]
+    },
+    {
+        "name": "sailor",
+        "trans": [
+            "n. 水手，海员"
+        ]
+    },
+    {
+        "name": "satisfaction",
+        "trans": [
+            "n. 满意，满足"
+        ]
+    },
+    {
+        "name": "scene",
+        "trans": [
+            "n. 场景，场面"
+        ]
+    },
+    {
+        "name": "seize",
+        "trans": [
+            "v. 抓住，逮捕"
+        ]
+    },
+    {
+        "name": "sense",
+        "trans": [
+            "n. 感觉，意识；理智"
+        ]
+    },
+    {
+        "name": "series",
+        "trans": [
+            "n. 系列，连续"
+        ]
+    },
+    {
+        "name": "session",
+        "trans": [
+            "n. 会议，学期"
+        ]
+    },
+    {
+        "name": "settle",
+        "trans": [
+            "v. 解决，定居"
+        ]
+    },
+    {
+        "name": "shelter",
+        "trans": [
+            "n. 避难所，遮蔽；v. 保护"
+        ]
+    },
+    {
+        "name": "shopper",
+        "trans": [
+            "n. 购物者"
+        ]
+    },
+    {
+        "name": "shortage",
+        "trans": [
+            "n. 缺乏，不足"
+        ]
+    },
+    {
+        "name": "shortcoming",
+        "trans": [
+            "n. 缺点，短处"
+        ]
+    },
+    {
+        "name": "shoulder",
+        "trans": [
+            "n. 肩膀；v. 肩负"
+        ]
+    },
+    {
+        "name": "shyness",
+        "trans": [
+            "n. 害羞"
+        ]
+    },
+    {
+        "name": "sight",
+        "trans": [
+            "n. 视力，景象"
+        ]
+    },
+    {
+        "name": "significant",
+        "trans": [
+            "adj. 重要的，有意义的"
+        ]
+    },
+    {
+        "name": "similarity",
+        "trans": [
+            "n. 相似性"
+        ]
+    },
+    {
+        "name": "since",
+        "trans": [
+            "conj. 从...以来；adv. 从那时起"
+        ]
+    },
+    {
+        "name": "slave",
+        "trans": [
+            "n. 奴隶；v. 苦干"
+        ]
+    },
+    {
+        "name": "slavery",
+        "trans": [
+            "n. 奴隶制度"
+        ]
+    },
+    {
+        "name": "slender",
+        "trans": [
+            "adj. 苗条的，纤细的"
+        ]
+    },
+    {
+        "name": "slip",
+        "trans": [
+            "n. 滑倒；v. 滑倒，溜走"
+        ]
+    },
+    {
+        "name": "society",
+        "trans": [
+            "n. 社会"
+        ]
+    },
+    {
+        "name": "sore",
+        "trans": [
+            "adj. 疼痛的；n. 痛处"
+        ]
+    },
+    {
+        "name": "sour",
+        "trans": [
+            "adj. 酸的，发酸的"
+        ]
+    },
+    {
+        "name": "sow",
+        "trans": [
+            "v. 播种"
+        ]
+    },
+    {
+        "name": "specify",
+        "trans": [
+            "v. 明确说明，指定"
+        ]
+    },
+    {
+        "name": "speech",
+        "trans": [
+            "n. 演讲，讲话"
+        ]
+    },
+    {
+        "name": "spill",
+        "trans": [
+            "v. 溢出，溅出"
+        ]
+    },
+    {
+        "name": "standard",
+        "trans": [
+            "n. 标准，水准"
+        ]
+    },
+    {
+        "name": "stare",
+        "trans": [
+            "v. 凝视"
+        ]
+    },
+    {
+        "name": "steal",
+        "trans": [
+            "v. 偷窃"
+        ]
+    },
+    {
+        "name": "steel",
+        "trans": [
+            "n. 钢"
+        ]
+    },
+    {
+        "name": "strengthen",
+        "trans": [
+            "v. 加强，增强"
+        ]
+    },
+    {
+        "name": "strike",
+        "trans": [
+            "n. 罢工；v. 打击，罢工"
+        ]
+    },
+    {
+        "name": "strongly",
+        "trans": [
+            "adv. 强烈地"
+        ]
+    },
+    {
+        "name": "substance",
+        "trans": [
+            "n. 物质，实质"
+        ]
+    },
+    {
+        "name": "succeed",
+        "trans": [
+            "v. 成功"
+        ]
+    },
+    {
+        "name": "sue",
+        "trans": [
+            "v. 控告，起诉"
+        ]
+    },
+    {
+        "name": "supervisor",
+        "trans": [
+            "n. 监督者，主管"
+        ]
+    },
+    {
+        "name": "supplier",
+        "trans": [
+            "n. 供应商，供给者"
+        ]
+    },
+    {
+        "name": "supply",
+        "trans": [
+            "n. 供应，供给；v. 供应"
+        ]
+    },
+    {
+        "name": "suppose",
+        "trans": [
+            "v. 假设，认为"
+        ]
+    },
+    {
+        "name": "surf",
+        "trans": [
+            "v. 冲浪"
+        ]
+    },
+    {
+        "name": "surround",
+        "trans": [
+            "v. 包围，环绕"
+        ]
+    },
+    {
+        "name": "sympathetic",
+        "trans": [
+            "adj. 有同情心的"
+        ]
+    },
+    {
+        "name": "tasty",
+        "trans": [
+            "adj. 美味的"
+        ]
+    },
+    {
+        "name": "technical",
+        "trans": [
+            "adj. 技术的，技巧的"
+        ]
+    },
+    {
+        "name": "technique",
+        "trans": [
+            "n. 技术，技巧"
+        ]
+    },
+    {
+        "name": "tend",
+        "trans": [
+            "v. 趋向，倾向"
+        ]
+    },
+    {
+        "name": "therefore",
+        "trans": [
+            "adv. 因此，所以"
+        ]
+    },
+    {
+        "name": "thick",
+        "trans": [
+            "adj. 厚的，密的"
+        ]
+    },
+    {
+        "name": "thoughtful",
+        "trans": [
+            "adj. 深思的，体贴的"
+        ]
+    },
+    {
+        "name": "threaten",
+        "trans": [
+            "v. 威胁"
+        ]
+    },
+    {
+        "name": "throughout",
+        "trans": [
+            "prep. 遍及，贯穿"
+        ]
+    },
+    {
+        "name": "thus",
+        "trans": [
+            "adv. 因此，这样"
+        ]
+    },
+    {
+        "name": "till",
+        "trans": [
+            "prep. 直到"
+        ]
+    },
+    {
+        "name": "timely",
+        "trans": [
+            "adj. 及时的"
+        ]
+    },
+    {
+        "name": "toe",
+        "trans": [
+            "n. 脚趾"
+        ]
+    },
+    {
+        "name": "tolerance",
+        "trans": [
+            "n. 容忍，宽容"
+        ]
+    },
+    {
+        "name": "tone",
+        "trans": [
+            "n. 语气，音调"
+        ]
+    },
+    {
+        "name": "tongue",
+        "trans": [
+            "n. 舌头"
+        ]
+    },
+    {
+        "name": "totally",
+        "trans": [
+            "adv. 完全地"
+        ]
+    },
+    {
+        "name": "tourist",
+        "trans": [
+            "n. 旅游者"
+        ]
+    },
+    {
+        "name": "toward",
+        "trans": [
+            "prep. 向，朝"
+        ]
+    },
+    {
+        "name": "trainer",
+        "trans": [
+            "n. 教练，训练师"
+        ]
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "n. 运输；v. 运输"
+        ]
+    },
+    {
+        "name": "trick",
+        "trans": [
+            "n. 诡计，把戏；v. 欺骗"
+        ]
+    },
+    {
+        "name": "tropical",
+        "trans": [
+            "adj. 热带的"
+        ]
+    },
+    {
+        "name": "truck",
+        "trans": [
+            "n. 卡车"
+        ]
+    },
+    {
+        "name": "truly",
+        "trans": [
+            "adv. 真正地"
+        ]
+    },
+    {
+        "name": "twin",
+        "trans": [
+            "adj. 双胞胎的；n. 双胞胎之一"
+        ]
+    },
+    {
+        "name": "unavoidable",
+        "trans": [
+            "adj. 不可避免的"
+        ]
+    },
+    {
+        "name": "unclear",
+        "trans": [
+            "adj. 不清晰的，不明确的"
+        ]
+    },
+    {
+        "name": "unhealthy",
+        "trans": [
+            "adj. 不健康的"
+        ]
+    },
+    {
+        "name": "unimportant",
+        "trans": [
+            "adj. 不重要的"
+        ]
+    },
+    {
+        "name": "union",
+        "trans": [
+            "n. 联合，工会"
+        ]
+    },
+    {
+        "name": "unite",
+        "trans": [
+            "v. 联合，团结"
+        ]
+    },
+    {
+        "name": "universe",
+        "trans": [
+            "n. 宇宙"
+        ]
+    },
+    {
+        "name": "unnecessary",
+        "trans": [
+            "adj. 不必要的"
+        ]
+    },
+    {
+        "name": "unofficial",
+        "trans": [
+            "adj. 非官方的"
+        ]
+    },
+    {
+        "name": "unusually",
+        "trans": [
+            "adv. 不寻常地"
+        ]
+    },
+    {
+        "name": "vacation",
+        "trans": [
+            "n. 假期，休假"
+        ]
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "n. 多样性，种类"
+        ]
+    },
+    {
+        "name": "vegetable",
+        "trans": [
+            "n. 蔬菜"
+        ]
+    },
+    {
+        "name": "vehicle",
+        "trans": [
+            "n. 车辆，交通工具"
+        ]
+    },
+    {
+        "name": "viewpoint",
+        "trans": [
+            "n. 观点，看法"
+        ]
+    },
+    {
+        "name": "virtue",
+        "trans": [
+            "n. 美德，优点"
+        ]
+    },
+    {
+        "name": "vitamin",
+        "trans": [
+            "n. 维生素"
+        ]
+    },
+    {
+        "name": "vocabulary",
+        "trans": [
+            "n. 词汇，词汇量"
+        ]
+    },
+    {
+        "name": "voluntary",
+        "trans": [
+            "adj. 自愿的"
+        ]
+    },
+    {
+        "name": "wage",
+        "trans": [
+            "n. 工资"
+        ]
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "n. 财富"
+        ]
+    },
+    {
+        "name": "wealthy",
+        "trans": [
+            "adj. 富有的"
+        ]
+    },
+    {
+        "name": "weekday",
+        "trans": [
+            "n. 工作日"
+        ]
+    },
+    {
+        "name": "weekly",
+        "trans": [
+            "adj. 每周的；n. 周刊"
+        ]
+    },
+    {
+        "name": "wheat",
+        "trans": [
+            "n. 小麦"
+        ]
+    },
+    {
+        "name": "widely",
+        "trans": [
+            "adv. 广泛地"
+        ]
+    },
+    {
+        "name": "impact",
+        "trans": [
+            "n. 影响，冲击力；v. 冲击"
+        ]
+    },
+    {
+        "name": "impatient",
+        "trans": [
+            "adj. 不耐烦的，急躁的"
+        ]
+    },
+    {
+        "name": "inactivate",
+        "trans": [
+            "v. 使不活跃，使无效"
+        ]
+    },
+    {
+        "name": "incident",
+        "trans": [
+            "n. 事件，事变"
+        ]
+    },
+    {
+        "name": "inconvenient",
+        "trans": [
+            "adj. 不方便的，打扰的"
+        ]
+    },
+    {
+        "name": "increase",
+        "trans": [
+            "n. 增加；v. 增加"
+        ]
+    },
+    {
+        "name": "increasingly",
+        "trans": [
+            "adv. 越来越多地"
+        ]
+    },
+    {
+        "name": "independent",
+        "trans": [
+            "adj. 独立的"
+        ]
+    },
+    {
+        "name": "industry",
+        "trans": [
+            "n. 工业，行业"
+        ]
+    },
+    {
+        "name": "inexpensive",
+        "trans": [
+            "adj. 不昂贵的，便宜的"
+        ]
+    },
+    {
+        "name": "inn",
+        "trans": [
+            "n. 小旅馆"
+        ]
+    },
+    {
+        "name": "insist",
+        "trans": [
+            "v. 坚持，坚决主张"
+        ]
+    },
+    {
+        "name": "inspire",
+        "trans": [
+            "v. 激励，鼓舞"
+        ]
+    },
+    {
+        "name": "instance",
+        "trans": [
+            "n. 实例，例子"
+        ]
+    },
+    {
+        "name": "instantly",
+        "trans": [
+            "adv. 立即地，马上"
+        ]
+    },
+    {
+        "name": "instruct",
+        "trans": [
+            "v. 指导，教导"
+        ]
+    },
+    {
+        "name": "intellectual",
+        "trans": [
+            "adj. 智力的，聪明的；n. 知识分子"
+        ]
+    },
+    {
+        "name": "intend",
+        "trans": [
+            "v. 打算，计划"
+        ]
+    },
+    {
+        "name": "interact",
+        "trans": [
+            "v. 相互作用，互动"
+        ]
+    },
+    {
+        "name": "internal",
+        "trans": [
+            "adj. 内部的，内在的"
+        ]
+    }
+]
