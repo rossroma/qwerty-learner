@@ -1,5 +1,131 @@
 [
     {
+        "name": "especially",
+        "trans": [
+            "adv. 特别地；尤其是"
+        ]
+    },
+    {
+        "name": "disturbing",
+        "trans": [
+            "adj. 令人不安的；引起不适的"
+        ]
+    },
+    {
+        "name": "comfortably",
+        "trans": [
+            "adv. 舒适地；自在地"
+        ]
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "n. 质量；品质",
+            "adj. 质量的；高品质的"
+        ]
+    },
+    {
+        "name": "concentrate",
+        "trans": [
+            "v. 集中；专心"
+        ]
+    },
+    {
+        "name": "gadget",
+        "trans": [
+            "n. 小器具；小装置"
+        ]
+    },
+    {
+        "name": "purchase",
+        "trans": [
+            "n. 购买；购买物品",
+            "v. 购买；购得"
+        ]
+    },
+    {
+        "name": "artificial",
+        "trans": [
+            "adj. 人工的；人造的"
+        ]
+    },
+    {
+        "name": "intelligence",
+        "trans": [
+            "n. 智能；智力"
+        ]
+    },
+    {
+        "name": "recommend",
+        "trans": [
+            "v. 推荐；建议"
+        ]
+    },
+    {
+        "name": "preference",
+        "trans": [
+            "n. 偏爱；优先选择"
+        ]
+    },
+    {
+        "name": "personalize",
+        "trans": [
+            "v. 使个人化；定制"
+        ]
+    },
+    {
+        "name": "experience",
+        "trans": [
+            "n. 经验；体验",
+            "v. 经历；体验"
+        ]
+    },
+    {
+        "name": "figure",
+        "trans": [
+            "n. 数字；图形",
+            "v. 认为；估计"
+        ]
+    },
+    {
+        "name": "patient",
+        "trans": [
+            "n. 患者；病人",
+            "adj. 耐心的；有耐性的"
+        ]
+    },
+    {
+        "name": "treat",
+        "trans": [
+            "v. 对待；治疗"
+        ]
+    },
+    {
+        "name": "convenience",
+        "trans": [
+            "n. 便利；方便"
+        ]
+    },
+    {
+        "name": "efficiency",
+        "trans": [
+            "n. 效率；效能"
+        ]
+    },
+    {
+        "name": "impact",
+        "trans": [
+            "n. 影响；冲击",
+            "v. 影响；撞击"
+        ]
+    },
+    {
+        "name": "responsibly",
+        "trans": [
+            "adv. 负责任地；合理地"
+        ]
+    },
+    {
         "name": "thirsty",
         "trans": [
             "adj. 口渴的；渴望的"
